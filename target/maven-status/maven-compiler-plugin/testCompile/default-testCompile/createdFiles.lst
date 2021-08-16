@@ -1,0 +1,5 @@
+stepDefinition\loginPageStepDefinition.class
+stepDefinition\BaseClass.class
+stepDefinition\CommonStepDefinition.class
+stepDefinition\RegistrationPageStepDefinition.class
+cucumberOptions\TestRuner.class
